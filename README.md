@@ -58,6 +58,6 @@ is exported as a clean JSON file ready for ingestion into a Coveo Push Source.
 
 ---
 
-## 📬 Contact
+## Contact
 
-If you have any questions, feel free to reach out.
+If you have any questions, feel free to reach out. >> klitton1776@hotmail.com
