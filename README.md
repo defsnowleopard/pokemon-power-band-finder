@@ -7,7 +7,6 @@ The goal of the project was to treat each Pokémon as a retail product and deriv
 “Power Band” performance tier using attack, defense, and HP stats. The final dataset 
 is exported as a clean JSON file ready for ingestion into a Coveo Push Source.
 
----
 
 ## Repository Structure
 
@@ -35,7 +34,6 @@ is exported as a clean JSON file ready for ingestion into a Coveo Push Source.
 - **metadata_model.md**  
   Detailed breakdown of facet fields, sortable fields, derived fields, and display fields.
 
----
 
 ## Summary of the Process
 
@@ -47,7 +45,6 @@ is exported as a clean JSON file ready for ingestion into a Coveo Push Source.
 6. I assigned each Pokémon a Power Band tier (Lightweight → Titan).
 7. I exported the final dataset as `coveo_pokemon_power_bands.json`.
 
----
 
 ## Next Steps (If Full Access Were Available)
 
